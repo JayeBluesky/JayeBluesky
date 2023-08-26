@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @JayeBluesky
+- 👀 I’m interested in app development
